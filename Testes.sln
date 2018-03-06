@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploCriptografia", "ExemploCriptografia\ExemploCriptografia.csproj", "{CDF9D61A-48A3-457F-A8F9-27076207CC5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploCritografiaAnnotation", "ExemploCritografiaAnnotation\ExemploCritografiaAnnotation.csproj", "{CBB4DB58-3EC1-4DFB-91FC-C660E828C4AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CDF9D61A-48A3-457F-A8F9-27076207CC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDF9D61A-48A3-457F-A8F9-27076207CC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDF9D61A-48A3-457F-A8F9-27076207CC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB4DB58-3EC1-4DFB-91FC-C660E828C4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB4DB58-3EC1-4DFB-91FC-C660E828C4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB4DB58-3EC1-4DFB-91FC-C660E828C4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB4DB58-3EC1-4DFB-91FC-C660E828C4AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
